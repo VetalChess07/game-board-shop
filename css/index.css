@@ -1,0 +1,16 @@
+:root {
+   --spacing-small: 10px;
+   --spacing-medium: 15px;
+   --spacing-large: 30px;
+   --decor-color: #FB554C;
+   --card-color: #EEF1EC;
+   --base-color: #F5F4F3;
+   --color-btn: #FB554C;
+   --color-btn-hover: #8DBAB5;
+
+
+}
+
+body {
+   padding: 0 10px;
+}
